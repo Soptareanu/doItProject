@@ -12,7 +12,7 @@ namespace Project2
         {
             int inputNumber = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(inputNumber);
+            Console.WriteLine("Your number is: " + inputNumber);
         }
     }
 }
